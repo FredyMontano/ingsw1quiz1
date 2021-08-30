@@ -1,2 +1,2 @@
-# ingsw1quiz1
+# Fredy Alejandro Montaño Joya
 Quiz 1
